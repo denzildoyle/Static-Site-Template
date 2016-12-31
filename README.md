@@ -1,2 +1,2 @@
-# bootstrap-base
-A base Bootstrap 3 template organised just how I like it.
+# Website Template
+A base template bult on Bootstrap 3, organised just how I like it.
